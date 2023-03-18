@@ -4,4 +4,4 @@ https://taufeeq-g.github.io/JavaScript-Projects/
 https://taufeeq-g.github.io/JavaScript-Projects/Dice%20Game
 
 # CV
-https://taufeeq-g.github.io/JavaScript-Projects/_1%20HTML%20Website%20Project-1
+https://taufeeq-g.github.io/JavaScript-Projects/cv
